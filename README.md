@@ -3,7 +3,7 @@
 
 | Page | Preview |
 |:---|---|
-|[1. Love](pages/1-love.jpg) | ![img](pages/1-love.jpg) |
+|[1. Love](pages/1-love.jpg) | <img src="pages/1-love.jpg" width="300px"> |
 
 ## How to use
 
