@@ -3,7 +3,8 @@
 
 |  |  |
 |---|---|
-| ### [1. Love](pages/1-love.jpg) <img src="pages/1-love-thumbnail.jpg" width="200"> | 2. (coming soon) |
+| [1. Love](pages/1-love.jpg) | 2. (coming soon) |
+| <img src="pages/1-love-thumbnail.jpg" width="200"> |  |
 
 ## How to use
 
