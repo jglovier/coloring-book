@@ -1,5 +1,14 @@
-# coloring-book
+![image](https://cloud.githubusercontent.com/assets/1319791/16817150/55676fde-490f-11e6-8a74-545b4028f549.png)
+
+# Coloring Book
 :art: :pencil2: An open source collection of illustrations I've made for you to color!
+
+## [Browse the Gallery](https://github.com/jglovier/coloring-book/issues?q=is%3Aissue+is%3Aopen+label%3Agallery)
+Check out what people have done with my coloring pages by surfing the [gallery issues here](https://github.com/jglovier/coloring-book/issues?q=is%3Aissue+is%3Aopen+label%3Agallery). Have one of your own to add? Just find the gallery issue for the page you colored, and add your work! Post completed photos, or even your work in progress. :sparkles:
+
+## Download a page to color
+
+Below is are the currently available pages. I'm always working on the next one, so follow this repo, or check back soon.
 
 |  |  |
 |---|---|
