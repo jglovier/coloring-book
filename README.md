@@ -1,9 +1,9 @@
 # coloring-book
 :art: :pencil2: An open source collection of illustrations I've made for you to color!
 
-| Page | Preview |
-|:---|---|
-|[1. Love](pages/1-love.jpg) | <img src="pages/1-love.jpg" width="300px"> |
+|  |  |
+|---|---|
+|[1. Love](pages/1-love.jpg) <img src="pages/1-love-thumbnail.jpg" width="200"> | 2. (coming soon) |
 
 ## How to use
 
