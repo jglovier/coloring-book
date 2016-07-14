@@ -18,7 +18,7 @@ Below is are the currently available pages. I'm always working on the next one, 
 ## How to use
 
 1. Find a page you want to color by browsing the index above, or clone the entire repository to your computer.
-2. Click through to the JPG version of the image, and download it by clicking the `raw` button.
+2. Click through to the JPG version of the image, and download it by clicking the `Download` button.
 3. Print it out.
 4. Color and be happy. :smile:
 
