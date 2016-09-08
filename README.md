@@ -10,9 +10,9 @@ Check out what people have done with my coloring pages by surfing the [gallery i
 
 Below is are the currently available pages. I'm always working on the next one, so follow this repo, or check back soon.
 
-|  |  |
-|---|---|
-| [1. Love](pages/1-love.jpg) | [2. Dig](pages/2-dig.jpb) | 3. (coming soon) |
+|   |   |   |
+|---|---|---|
+| 1. Love ([full res](pages/1-love.jpg)) | 2. Dig ([full res](pages/2-dig.jpg)) | 3. (coming soon) |
 | <img src="pages/1-love-thumbnail.jpg" width="200"> | <img src="pages/2-dig-thumbnail.jpg" width="200"> | |
 
 ## How to use
