@@ -12,8 +12,8 @@ Below is are the currently available pages. I'm always working on the next one, 
 
 |  |  |
 |---|---|
-| [1. Love](pages/1-love.jpg) | 2. (coming soon) |
-| <img src="pages/1-love-thumbnail.jpg" width="200"> |  |
+| [1. Love](pages/1-love.jpg) | [2. Dig](pages/2-dig.jpb) | 3. (coming soon) |
+| <img src="pages/1-love-thumbnail.jpg" width="200"> | <img src="pages/2-dig-thumbnail.jpg" width="200"> | |
 
 ## How to use
 
