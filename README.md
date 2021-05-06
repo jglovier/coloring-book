@@ -28,7 +28,9 @@ If you colored a page, I'd love to see it! Feel free to add your coloring to the
 
 ## Why I did this
 
-Adult coloring books are becoming very popular, and I thought it would be nice to offer some pages that anyone could color for free. Also, my kids will love this too. :tada:
+I've found coloring to be a very healthy way to unwind, get out of my head, and into a creative imagining space. It's something I've enjoyed doing since I was a kid, so it brings back positive childhood elements. And it's an activity I can share with my own kids.
+
+Adult coloring books have become very popular, and I'm sure there are plenty of free pages you can print just from a Google search, so there's no lack of things to color in the world. But I think it's fun to make my own things to color, so I thought I'd share them with you too! 💛
 
 ## License
 
